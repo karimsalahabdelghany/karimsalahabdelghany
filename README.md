@@ -79,11 +79,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimsalahabdelghany&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimsalahabdelghany&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+## 🎯 Currently Working On
 
----
+- 🔧 Advanced Microservices architecture with .NET
+- 📨 Messaging patterns — RabbitMQ & Azure Service Bus  
+- ☁️ CI/CD pipelines with Azure DevOps & GitHub Actions
+- 📐 Learning Angular + TypeScript for full-stack projects
 
-<p align="center">💬 Always open to new opportunities and collaborations. Let's connect!</p>
+## 📫 Let's Connect
+
+- 💼 [LinkedIn — karim-salah22](https://linkedin.com/in/karim-salah22)
+- 📧 karimabdelghany753@gmail.com
+- 🐙 [GitHub — karimsalahabdelghany](https://github.com/karimsalahabdelghany)
