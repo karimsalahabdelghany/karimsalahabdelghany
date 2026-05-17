@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Salah</h1>
-<h3 align="center">Junior .NET Backend Developer | ASP.NET Core · Clean Architecture · SQL Server</h3>
+<h3 align="center">Junior .NET Backend Developer | ASP.NET Core · SQL Server - EF Core - MVC - WebApi</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/karim-salah22" target="_blank">
